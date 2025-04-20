@@ -19,4 +19,6 @@ if __name__ == '__main__':
 
     print_hi('Hello World 4')
 
+    print("Hello World 5")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
