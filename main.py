@@ -25,4 +25,6 @@ if __name__ == '__main__':
 
     print_hi('Hello world Updates on Local Master Branch')
 
+    print("Hello World Updates 2 on GitHub")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
