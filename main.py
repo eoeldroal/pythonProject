@@ -21,4 +21,6 @@ if __name__ == '__main__':
 
     print("Hello World 5")
 
+    print("Hello World Updates on GitHub")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
